@@ -43,9 +43,6 @@ user management, and network segmentation through pfSense.
 - Client machines: DHCP assigned via pfSense
 - Splunk SIEM: 192.168.1.50 (receiving AD logs)
 
-## Screenshots
-[Screenshots to be added]
-
 ## Skills Demonstrated
 - Active Directory administration
 - Windows Server 2019 configuration
