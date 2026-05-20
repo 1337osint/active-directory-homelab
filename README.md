@@ -91,7 +91,7 @@ user management, and network segmentation through pfSense.
 ![GPO Active](Desktop%20GPO%20Active%20And%20Working.png)
 
 ### gpresult — User Security GPO Applied
-![gpresult](gpresult%20Output%20user%20Security%20GPO%20applied%20to%20AD%20User.png)
+![gpresult](gpresult%20Output%20User%20Security%20GPO%20applied%20to%20AD%20User.png)
 
 ### Password Reset Evidence
 ![Password Reset](Password%20Reset%20Evidence.png)
