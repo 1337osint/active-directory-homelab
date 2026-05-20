@@ -54,3 +54,62 @@ user management, and network segmentation through pfSense.
 - Network segmentation with pfSense
 - Domain user and group management
 - Security policy implementation
+
+- ## Screenshots
+
+### AD DS and DNS Roles Installed
+![Roles](AD%20%26%20DNS%20Roles%20Installed.png)
+
+### Organizational Unit Structure
+![OUs](3%20Different%20OUs.png)
+
+### Admin Account Domain Admins Membership
+![Admin](Admin-Domain-Admins.png)
+
+### Password Policy GPO
+![Password GPO](Password%20GPO.png)
+
+### Account Lockout GPO
+![Lockout GPO](Account%20Lockout%20GPO.png)
+
+### Desktop Prevention GPO Enabled
+![Desktop GPO](Desktop%20Prevention%20GPO%20Enabled.png)
+
+### Security Baseline Policy at Domain Level
+![Domain GPO](GPM%20Security%20Baseline%20Policy%20At%20Domain%20Level.png)
+
+### User Security Policy Under _USERS OU
+![Users GPO](GPM%20User%20Security%20Policy%20Under%20_USER%20OU.png)
+
+### Security Group Creation (IT Staff)
+![Security Group](Security%20Group%20Creation%20(IT%20Staff).png)
+
+### whoami — Domain User Verified
+![whoami](AD%20User%20(whoami%20command).png)
+
+### Desktop GPO Active and Enforced
+![GPO Active](Desktop%20GPO%20Active%20And%20Working.png)
+
+### gpresult — User Security GPO Applied
+![gpresult](gpresult%20Output%20user%20Security%20GPO%20applied%20to%20AD%20User.png)
+
+### Password Reset Evidence
+![Password Reset](Password%20Reset%20Evidence.png)
+
+### Account Disabled Evidence
+![Account Disabled](Account%20Disabled%20Evidence.png)
+
+### Account Enabled Evidence
+![Account Enabled](Account%20Enabled%20Evidence.png)
+
+### Account Investigation Script
+![Script](Account%20Investigation%20Script.png)
+
+### Account Lockout Evidence
+![Lockout](AD%20Account%20Lockout%20Evidence.png)
+
+### Account Lockout Troubleshot and Resolved
+![Unlocked](Account%20Lockout%20Troubleshooted.png)
+
+### _COMPUTERS OU — Client Machine Moved
+![Computers OU](Computers-OU.png)
