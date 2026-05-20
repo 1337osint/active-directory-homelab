@@ -1,10 +1,7 @@
 # Active Directory Homelab
 
 ## Overview
-Built a fully functional Active Directory environment from scratch using 
-VirtualBox. Configured a Windows Server 2019 Domain Controller, joined 
-Windows client machines to the domain, and implemented Group Policy, 
-user management, and network segmentation through pfSense.
+Built a fully functional Active Directory environment from scratch using VirtualBox. Configured a Windows Server 2019 Domain Controller, joined Windows client machines to the domain, and implemented Group Policy, user management, and network segmentation through pfSense.
 
 ## Environment
 - Host OS: Windows 11
@@ -39,7 +36,7 @@ user management, and network segmentation through pfSense.
 
 ## Network Architecture
 - pfSense VM: LAN gateway at 192.168.1.1
-- Domain Controller: 192.168.1.101 (static)
+- Domain Controller: 192.168.1.100 (static)
 - Client machines: DHCP assigned via pfSense
 - Splunk SIEM: 192.168.1.50 (receiving AD logs)
 
@@ -52,8 +49,7 @@ user management, and network segmentation through pfSense.
 - Domain user and group management
 - Security policy implementation
 
-
-- ## Screenshots
+## Screenshots
 
 ### AD DS and DNS Roles Installed
 ![Roles](AD%20%26%20DNS%20Roles%20Installed.png)
